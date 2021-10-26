@@ -1,4 +1,4 @@
-### Hi there 👋
+[![godmoonl's GitHub stats](https://github-readme-stats.vercel.app/api?username=godmoonl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **godmoonl/godmoonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
